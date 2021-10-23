@@ -1,6 +1,6 @@
 /**
 * FaraedwnClock.cpp
-* @author  Faraedwn Shaquly
+* @author  Faraedwn Shaquli
 * @version 1.0
 * @since   2020-01-25
 */
